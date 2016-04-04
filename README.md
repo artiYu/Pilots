@@ -1,3 +1,3 @@
 # Pilots
 Game "Brother Pilots"
-![Alt text](/Pilots/blob/master/end.JPG?raw=true "Optional Title")
+![Alt text](https://github.com/lapl4rt/Pilots/blob/master/end.JPG "Optional title")
